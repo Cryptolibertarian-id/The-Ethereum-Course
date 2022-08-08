@@ -5,6 +5,14 @@ Learning Path to Learn Ethereum Protocol
 
 
 
+- [Mastering Solidity](https://github.com/Cryptolibertarian-id/Mastering-Solidity)
+- [The Polygon Course](https://github.com/Cryptolibertarian-id/The-Polygon-Course)
+- [The Solana Course](https://github.com/Cryptolibertarian-id/The-Solana-Course)
+  - [Mastering Solana](https://github.com/Cryptolibertarian-id/Mastering-Solana)
+- [The Bitcoin Course](https://github.com/Cryptolibertarian-id/The-Bitcoin-Course)
+
+
+
 ---
 
 
